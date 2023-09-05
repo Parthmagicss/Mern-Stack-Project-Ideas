@@ -3,7 +3,7 @@
 
 ![head](https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png)
 
-<img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" width="50%" align=right>
+<img src="https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1" width="50%" align=right>
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
@@ -64,11 +64,8 @@ required to complete them.
 |  [Discord Clone - MERN STACK ](https://www.youtube.com/watch?v=YzcnqYNXM90) | Discord Clone App using MERN Stack |3-Advanced |
 |  [Messenger Clone - MERN STACK ](https://www.youtube.com/watch?v=8GMx8r9zQXg) | Messenger Clone App using MERN Stack |3-Advanced |
 |  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
-| [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
-| [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
-| [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
-| [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers | 
-| [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
+| [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s) | Ben Awad  | 3-Advanced|
+| [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1) | Salman Fazal | 3-Advanced|
 
 
 ## Plans for the future ⚡
