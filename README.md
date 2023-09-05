@@ -1,9 +1,9 @@
 # Mern Stack Project Ideas
-# Project Ideas and Resources ⚡💙⚡
+# MERN stack project Ideas with Tutorials ⚡💙⚡
 
-![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
+![head](https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png)
 
-<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="50%" align=right>
+<img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" width="50%" align=right>
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
@@ -40,14 +40,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript| 1-Beginner |
-| [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
-| [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python| 1-Beginner |
-| [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV| 1-Beginner |
-- [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Begineer |
-| [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python| 1-Beginner |
-| [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
-| [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python| 1-Beginner |
+| [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Begineer |
 
 
 
@@ -55,15 +48,6 @@ required to complete them.
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
-| [Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
-| [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  An interactive Movie Database app using ReactJS.                | 2-Intermediate |
-| [Github Jobs App](https://www.youtube.com/watch?v=fxY1q4SCB64&list=LL&index=2) |  A GitHub Jobs App using React Hooks and Github API                | 2-Intermediate |
-| [Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU) | Weather app in React JS using the Open Weather Map API | 2-Intermediate |
-| [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
-| [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
-| [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
-| [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
-| [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 | [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
 | [Google Drive Clone With React](https://www.youtube.com/watch?v=ljuCH6_jrYE)| Google Drive Clone using React, Firebase |2-Intermediate|
 
@@ -74,28 +58,17 @@ required to complete them.
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
-|  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
-| [Instagram Clone Application](https://www.youtube.com/watch?v=f7T48W0cwXM)|An Instagram Clone application using React JS|3-Advanced|
-|  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
-|  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
 |  [Voting Application - MERN ](https://www.youtube.com/watch?v=0oziV0FLhXc&list=PLBeQxJQNprbgrNfcntLO8N2Y-dzlMZXZe) |A Voting App using MERN Stack |3-Advanced |
 |  [Travel Log - MERN STACK ](https://www.youtube.com/watch?v=5pQsl9u_10M) | Travel Log App using MERN Stack |3-Advanced |
 |  [Discord Clone - MERN STACK ](https://www.youtube.com/watch?v=YzcnqYNXM90) | Discord Clone App using MERN Stack |3-Advanced |
 |  [Messenger Clone - MERN STACK ](https://www.youtube.com/watch?v=8GMx8r9zQXg) | Messenger Clone App using MERN Stack |3-Advanced |
 |  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
-
 | [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
 | [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
 | [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
 | [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers | 
-| [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh | 
-| [JSP & Servlets Tutorial](https://www.youtube.com/watch?v=xve6QEgIR-0&list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)                 | LearnCodeWith Durgesh | 
 | [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
-| [5 Spring Boot Projects](https://www.youtube.com/watch?v=VR1zoNomG3w)                 | Java Guides | 
-| [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
-| [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson | 
-| [.NET Micro Services](https://www.youtube.com/watch?v=DgVjEo3OGBI)                 | Les Jackson | 
 
 
 ## Plans for the future ⚡
