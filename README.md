@@ -89,36 +89,17 @@ You can also add your own examples to the projects after you have completed them
 
 - [Awesome Github Repositories](https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e)
 - [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
-- [Programming Slides](https://marko-knoebl.github.io/slides/)
 - [500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
-- [8 Websites to get free PNG Images](https://www.instagram.com/p/CKZOtSRAlzi/?igshid=4exf5ik7vphu)
 - [Front-End Challenge Websites](https://www.instagram.com/p/CKEeFaJALI_/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [18 amazing GitHub repositories that will make a Beautiful Project](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
-- [Crypto Dev Hub](https://cryptodevhub.io/)
-
-#### Design Resources 
-
-- [CSS Icon Pack](https://css.gg/)
-- [Icon Store](https://iconstore.co/)
-- [Tilda Icons](https://tilda.cc/free-icons/)
-- [Ikonate Icons](https://ikonate.com/)
-- [Eva Icons](https://akveo.github.io/eva-icons/#/)
-- [Funky Scribbles](https://www.scribbbles.design/)
-- [Befonts](https://befonts.com/)
-- [World Vector Logo](https://worldvectorlogo.com/)
-- [Logoipsum](https://logoipsum.com/)
-- [Streamlined Icons](https://streamlinehq.com/)
-- [Patterns Dev - Modern Design Patterns](https://www.patterns.dev/)
 
 #### Awesome APIS for Front-End Developers
 
 - [The MovieDB API](https://www.themoviedb.org/documentation/api)
-- [The NASA API](https://api.nasa.gov/)
 - [Frank Furter API](https://www.frankfurter.app/)
 - [The MealDB API](https://www.themealdb.com/api.php)
 - [Responsive Voice API](https://responsivevoice.org/api/)
-- [Crypto Currencies API](https://www.coinapi.io/)
 - [Placeholder Image API](https://lorem.space/)
 
 #### Awesome Dev Tools
